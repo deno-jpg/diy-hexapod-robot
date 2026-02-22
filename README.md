@@ -56,4 +56,5 @@ Print the STL files from `models/body/` and `models/leg/`. Refer to `diy-documen
 
 ## License
 
-This project is provided as-is for personal and educational use.
+This project is licensed under the [Apache License 2.0](LICENSE).  
+You may use, modify, and distribute it freely under the terms of that license.
